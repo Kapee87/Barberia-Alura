@@ -296,4 +296,15 @@ td, th{
            display: block;
 
        }
+       
+        /* responsive pagina de productos */
+        .productos li{
+            width: 55vw;
+            display: block;
+            margin: 0 15vw;
+        }
+        .productos{
+            padding: 0 auto;
+            margin: 0 auto;
+        }
     }
